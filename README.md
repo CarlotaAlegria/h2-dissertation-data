@@ -7,7 +7,7 @@ A Case Study on Green Hydrogen Integration in Energy Systems"*.
 ## Repository Structure
 - `data/` → Input datasets (Excel files with technical and economic parameters).
 - `code/` → Python scripts used to run simulations.
-- `results/` → Simulation outputs (CSV tables and graphs).
+- `results/` → Simulation outputs (Excel tables and graphs).
 
 ## How to Use
 1. Open the files in the `data/` folder for the base scenario inputs.
